@@ -1,3 +1,3 @@
 # Demo
 
-Created readme.md file for github demo repo.
+updated readme file for repo
